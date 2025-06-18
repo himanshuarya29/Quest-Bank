@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #e6f0ff; /* Soft blue background */
+}
+
+header {
+    background-color: #003087; /* Dark blue header */
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin-bottom: 15px;
+}
+
+#searchBar {
+    width: 100%;
+    max-width: 500px;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #003087; /* Blue border */
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #ffffff; /* White background */
+}
+
+.header-buttons {
+    margin-top: 10px;
+}
+
+.home-link {
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 15px;
+    background-color: #0059ff; /* Blue button */
+    border-radius: 5px;
+    margin: 0 5px;
+}
+
+.home-link:hover {
+    background-color: #3381ff; /* Lighter blue on hover */
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+.subject-card {
+    background-color: #ffffff; /* White card */
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    text-align: center;
+    border: 1px solid #0059ff; /* Blue border */
+}
+
+.subject-card h3 {
+    color: #333; /* Dark text */
+}
+
+.subject-card:hover {
+    background-color: #e6f0ff; /* Light blue hover */
+}
+
+.year-section {
+    background-color: #ffffff; /* White section */
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border: 1px solid #0059ff; /* Blue border */
+}
+
+.year-section h2 {
+    color: #003087; /* Dark blue heading */
+    margin-bottom: 10px;
+}
+
+.question-item {
+    padding: 10px;
+    border-top: 1px solid #e6f0ff; /* Light blue separator */
+}
+
+.question-item p {
+    color: #666; /* Gray text */
+}
+
+@media (max-width: 600px) {
+    .home-link {
+        width: 100%;
+        text-align: center;
+        margin: 5px 0;
+    }
+}
