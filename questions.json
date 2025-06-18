@@ -1,0 +1,106 @@
+[
+    { "id": 1, "subject": "Operating System", "year": "2024", "question": "What is Kernel ?" },
+    { "id": 2, "subject": "Database Management System", "year": "2022", "question": "What is Full Form of DBMS?" },
+    { "id": 3, "subject": "Computer Network", "year": "2021", "question": "Define a covalent bond." },
+    { "id": 4, "subject": "Data Structure", "year": "2024", "question": "what is Data Structure?" },
+    { "id": 5, "subject": "Math", "year": "2023", "question": "What is the quadratic formula?" },
+    { "id": 6, "subject": "Operating System", "year": "2024", "question": "What do you mean by system call?" },
+    { "id": 7, "subject": "Operating System", "year": "2024", "question": "What is process control block?" },
+    { "id": 8, "subject": "Operating System", "year": "2024", "question": "Define effective access time?" },
+    { "id": 9, "subject": "Operating System", "year": "2024", "question": "Name any Five page replacement algorithm used for page replacement?" },
+    { "id": 10, "subject": "Operating System", "year": "2024", "question": "What are the various file operations?" },
+    { "id": 11, "subject": "Operating System", "year": "2024", "question": "What are safe and unsafe state in a deadlock?" },
+    { "id": 12, "subject": "Operating System", "year": "2024", "question": "Define deadlock prevention?" },
+    { "id": 13, "subject": "Operating System", "year": "2024", "question": "What is Virtual Memory? How it is different from Cache Memory and secondary memory? Also discuss the benefits of virtual memory techniques." },
+    { "id": 14, "subject": "Operating System", "year": "2024", "question": "What is a race Condition?" },
+  {
+    "id": 15,
+    "subject": "Database Management System",
+    "year": 2024,
+    "question": "What is data independence? Discuss different types of data independence in detail."
+  },
+  {
+    "id": 16,
+    "subject": "Database Management System",
+    "year": 2024,
+    "question": "Explain the three levels of database architecture with a neat diagram."
+  },
+  {
+    "id": 17,
+    "subject": "Database Management System",
+    "year": 2024,
+    "question": "Discuss various types of database users. What are their roles?"
+  },
+  {
+    "id": 18,
+    "subject": "Database Management System",
+    "year": 2024,
+    "question": "Explain the concept of normalization. Explain 1NF, 2NF, and 3NF with examples."
+  },
+  {
+    "id": 19,
+    "subject": "Database Management System",
+    "year": 2024,
+    "question": "What are integrity constraints? Explain different types of constraints with examples."
+  },
+  {
+    "id": 20,
+    "subject": "Database Management System",
+    "year": 2024,
+    "question": "Compare and contrast the file system with DBMS."
+  },
+  {
+    "id": 21,
+    "subject": "Database Management System",
+    "year": 2024,
+    "question": "Explain different types of keys used in relational databases with suitable examples."
+  },
+  {
+    "id": 22,
+    "subject": "Database Management System",
+    "year": 2024,
+    "question": "Define and differentiate between DDL, DML, and DCL with examples."
+  },
+  {
+    "id": 23,
+    "subject": "Database Management System",
+    "year": 2024,
+    "question": "What is a transaction? Explain ACID properties in the context of transactions."
+  },
+  {
+    "id": 24,
+    "subject": "Database Management System",
+    "year": 2024,
+    "question": "What is SQL? Write SQL commands for the following:\n(a) Create table\n(b) Insert values\n(c) Update values\n(d) Delete a row\n(e) Select records with a specific condition"
+  },
+    {
+    "id": 25,
+    "subject": "Data Structure",
+    "year": 2024,
+    "question": "What is AVL Tree ? Explain the concept of Balancing Factor. Create an AVL Tree using following sequence.21,26,30,9,4,14,28,18,15,10,2,3,7"
+  },
+  {
+    "id": 26,
+    "subject": "Data Structure",
+    "year": 2024,
+    "question": "Compare Tree and Graph."
+  },
+  {
+    "id": 27,
+    "subject": "Data Structure",
+    "year": 2024,
+    "question": "What do you mean by abstract data type?"
+  },
+  {
+    "id": 28,
+    "subject": "Data Structure",
+    "year": 2024,
+    "question": "What is the Concept of Minimum spanning tree?"
+  },
+  {
+    "id": 29,
+    "subject": "Data Structure",
+    "year": 2024,
+    "question": "Write Application of stack"
+  }
+]
